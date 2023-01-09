@@ -1,21 +1,26 @@
-# co3d148d2af39bb290471e419
+# Lead Tracker
 
-Quick start:
+Building a chrome extension that save website and tabs.
+## Lessons Learned
 
-```
-$ npm install
-$ npm start
-````
+- [x]  const
+- [x]  addEventlistener()
+- [x]  innerHTML
+- [x]  input.value
+- [x]  function parameters
+- [x]  template strings
+- [x]  localStorage
+- [x]  The JSON object
+- [x]  object in arrays
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Screenshot
+![image](https://user-images.githubusercontent.com/80773310/211299514-e2a50893-292c-4467-ba8c-92e88a3d4cb4.png)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Authors
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+ <a href="https://github.com/DHCJS">
+ <img align="left" src="https://user-images.githubusercontent.com/80773310/199714215-60064183-68b4-4367-96a0-1ac5bd1d4bfb.png" alt=@tato /></a>
+ 
 
-Happy Coding!
+ <a href="https://medium.com/@hartatociptajaya" target="blank">
+ <img align="left" src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" alt="@hartatociptajaya" width="40" height="40"/></a>
